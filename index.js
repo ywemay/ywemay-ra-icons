@@ -1,0 +1,5 @@
+export * from '@mui/icons-material'
+export * from './icons/Box'
+export * from './icons/Customer'
+export * from './icons/Skype'
+export * from './icons/WeChat'
